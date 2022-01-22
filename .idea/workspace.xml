@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch03/src/Ex3_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/src/shortcut.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/src/shortcut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/ScanfEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/src/ScanfEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/Var.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/src/Var.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/VarEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/src/VarEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/VarEx2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/src/VarEx2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/VarEx3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/src/VarEx3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/VarEx4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/src/VarEx4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/VarEx5.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/src/VarEx5.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/VarEx6.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/src/VarEx6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/src/printfEx1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/src/printfEx1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/src/Ex3_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/src/Ex3_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch03/src/Ex3_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,11 +29,15 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="23VkXpOwokEUm18N93xvlEzLQf1" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
@@ -72,5 +64,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
