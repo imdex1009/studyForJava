@@ -16,7 +16,6 @@ public class Ex3_6 {
     	System.out.println(str3==str4);
     	System.out.println(str3.equals(str4));
     	
-    	
 
     }
 
