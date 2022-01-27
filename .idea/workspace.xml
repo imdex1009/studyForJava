@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch04/src/Ex4_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/src/Ex4_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch04/src/Ex4_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch04/src/Ex4_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,20 +54,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex4_8">
-    <configuration name="Ex4_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Ex4_4" />
-      <module name="studyForJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex4_9">
     <configuration name="Ex4_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.Ex4_5" />
       <module name="studyForJava" />
@@ -122,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex4_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Ex4_9" />
+      <module name="studyForJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex4_9" />
         <item itemvalue="Application.Ex4_8" />
         <item itemvalue="Application.Ex4_7" />
         <item itemvalue="Application.Ex4_6" />
         <item itemvalue="Application.Ex4_5" />
-        <item itemvalue="Application.Ex4_4" />
       </list>
     </recent_temporary>
   </component>
