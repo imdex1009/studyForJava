@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ch04/src/Ex4_10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,9 +54,9 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex4_9">
-    <configuration name="Ex4_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Ex4_5" />
+  <component name="RunManager" selected="Application.Ex4_10">
+    <configuration name="Ex4_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.Ex4_10" />
       <module name="studyForJava" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex4_10" />
         <item itemvalue="Application.Ex4_9" />
         <item itemvalue="Application.Ex4_8" />
         <item itemvalue="Application.Ex4_7" />
         <item itemvalue="Application.Ex4_6" />
-        <item itemvalue="Application.Ex4_5" />
       </list>
     </recent_temporary>
   </component>
