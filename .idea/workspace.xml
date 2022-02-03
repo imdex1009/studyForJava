@@ -5,9 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +61,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -68,37 +75,37 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex5_5">
-    <configuration name="Ex5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_1" />
+  <component name="RunManager" selected="Application.Ex5_13">
+    <configuration name="Ex5_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_10" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_2" />
+    <configuration name="Ex5_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_11" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_3" />
+    <configuration name="Ex5_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_12" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_4" />
+    <configuration name="Ex5_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_13" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_5" />
+    <configuration name="Ex5_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_8" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex5_5" />
-        <item itemvalue="Application.Ex5_4" />
-        <item itemvalue="Application.Ex5_3" />
-        <item itemvalue="Application.Ex5_2" />
-        <item itemvalue="Application.Ex5_1" />
+        <item itemvalue="Application.Ex5_13" />
+        <item itemvalue="Application.Ex5_12" />
+        <item itemvalue="Application.Ex5_11" />
+        <item itemvalue="Application.Ex5_8" />
+        <item itemvalue="Application.Ex5_10" />
       </list>
     </recent_temporary>
   </component>
@@ -142,5 +149,8 @@
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/studyForJava$Ex5_7.ic" NAME="Ex5_7 Coverage Results" MODIFIED="1643884883862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
