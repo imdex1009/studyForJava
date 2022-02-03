@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/Ex6_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,21 +71,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex5_13">
-    <configuration name="Ex5_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_10" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex5_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_11" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex5_16">
     <configuration name="Ex5_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex5_12" />
       <module name="studyForJava" />
@@ -104,8 +86,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_8" />
+    <configuration name="Ex5_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_14" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex5_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_15" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex5_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_16" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -113,11 +109,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex5_16" />
+        <item itemvalue="Application.Ex5_15" />
+        <item itemvalue="Application.Ex5_14" />
         <item itemvalue="Application.Ex5_13" />
         <item itemvalue="Application.Ex5_12" />
-        <item itemvalue="Application.Ex5_11" />
-        <item itemvalue="Application.Ex5_8" />
-        <item itemvalue="Application.Ex5_10" />
       </list>
     </recent_temporary>
   </component>
