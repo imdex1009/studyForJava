@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch01/.project" beforeDir="false" afterPath="$PROJECT_DIR$/ch01/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch02/.project" beforeDir="false" afterPath="$PROJECT_DIR$/ch02/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch03/.project" beforeDir="false" afterPath="$PROJECT_DIR$/ch03/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyForJava/.project" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/studyForJava/.project" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,49 +64,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex5_2">
-    <configuration name="Ex4_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Ex4_10" />
-      <module name="studyForJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex4_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Ex4_11" />
-      <module name="studyForJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex4_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Ex4_12" />
-      <module name="studyForJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex5_5">
     <configuration name="Ex5_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex5_1" />
       <module name="studyForJava" />
@@ -123,13 +83,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex5_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_3" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex5_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_4" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex5_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_5" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex5_5" />
+        <item itemvalue="Application.Ex5_4" />
+        <item itemvalue="Application.Ex5_3" />
         <item itemvalue="Application.Ex5_2" />
         <item itemvalue="Application.Ex5_1" />
-        <item itemvalue="Application.Ex4_12" />
-        <item itemvalue="Application.Ex4_11" />
-        <item itemvalue="Application.Ex4_10" />
       </list>
     </recent_temporary>
   </component>
