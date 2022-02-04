@@ -7,4 +7,9 @@ public class Ex6_1 {
 
 
     }
+
+
+    class Ex6_1_1 {
+
+    }
 }

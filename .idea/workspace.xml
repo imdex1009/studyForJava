@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch05/Ex5_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06/Ex6_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch05/Ex5_18.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch06/Ex6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Ex6_1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,21 +69,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex5_16">
-    <configuration name="Ex5_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_12" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex5_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_13" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex5_18">
     <configuration name="Ex5_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex5_14" />
       <module name="studyForJava" />
@@ -107,13 +91,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex5_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_17" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex5_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_18" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex5_18" />
+        <item itemvalue="Application.Ex5_17" />
         <item itemvalue="Application.Ex5_16" />
         <item itemvalue="Application.Ex5_15" />
         <item itemvalue="Application.Ex5_14" />
-        <item itemvalue="Application.Ex5_13" />
-        <item itemvalue="Application.Ex5_12" />
       </list>
     </recent_temporary>
   </component>
