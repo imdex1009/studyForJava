@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ch06/Ex6_2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch06/Ex6_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Ex6_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/studyForJava/Ex6_1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/studyForJava/Ex6_1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studyForJava/Tv.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/studyForJava/Tv.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,26 +58,22 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ch06" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch06" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex6_1">
-    <configuration name="Ex5_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_15" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex6_2">
     <configuration name="Ex5_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex5_16" />
       <module name="studyForJava" />
@@ -104,13 +102,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex6_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6_2" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex6_2" />
         <item itemvalue="Application.Ex6_1" />
         <item itemvalue="Application.Ex5_18" />
         <item itemvalue="Application.Ex5_17" />
         <item itemvalue="Application.Ex5_16" />
-        <item itemvalue="Application.Ex5_15" />
       </list>
     </recent_temporary>
   </component>
