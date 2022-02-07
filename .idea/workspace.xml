@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch06/Ex6_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/Ex6_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -70,14 +70,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex6_3">
-    <configuration name="Ex5_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_17" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex6_4">
     <configuration name="Ex5_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex5_18" />
       <module name="studyForJava" />
@@ -106,13 +99,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex6_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6_4" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex6_4" />
         <item itemvalue="Application.Ex6_3" />
         <item itemvalue="Application.Ex6_2" />
         <item itemvalue="Application.Ex6_1" />
         <item itemvalue="Application.Ex5_18" />
-        <item itemvalue="Application.Ex5_17" />
       </list>
     </recent_temporary>
   </component>
