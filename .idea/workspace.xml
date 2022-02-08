@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch06/Ex6_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/Ex6_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/Ex6_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/Ex6_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/Ex6_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch06/Ex6_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +55,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -70,37 +78,37 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex6_4">
-    <configuration name="Ex5_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_18" />
+  <component name="RunManager" selected="Application.Ex6_9">
+    <configuration name="Ex6_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6_5" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex6_1" />
+    <configuration name="Ex6_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6_6" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex6_2" />
+    <configuration name="Ex6_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6_7" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex6_3" />
+    <configuration name="Ex6_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6_8" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex6_4" />
+    <configuration name="Ex6_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex6_9" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -108,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex6_4" />
-        <item itemvalue="Application.Ex6_3" />
-        <item itemvalue="Application.Ex6_2" />
-        <item itemvalue="Application.Ex6_1" />
-        <item itemvalue="Application.Ex5_18" />
+        <item itemvalue="Application.Ex6_9" />
+        <item itemvalue="Application.Ex6_8" />
+        <item itemvalue="Application.Ex6_7" />
+        <item itemvalue="Application.Ex6_6" />
+        <item itemvalue="Application.Ex6_5" />
       </list>
     </recent_temporary>
   </component>
