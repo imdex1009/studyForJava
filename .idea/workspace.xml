@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch06_Ex/Exercise6_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06_Ex/Exercise6_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06_Ex/Exercise6_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch06_Ex/Exercise6_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Ex7_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Ex7_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Ex7_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch06/Ex6_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch06/Ex6_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/studyForJava/Ex6_2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/studyForJava/Ex6_2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -78,29 +79,23 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Exercise6_4">
-    <configuration name="Ex4_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.Ex4_13" />
-      <module name="studyForJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="src.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex6_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex6_11" />
+  <component name="RunManager" selected="Application.Ex7_3">
+    <configuration name="Ex7_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_1" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise6_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise6_2" />
+    <configuration name="Ex7_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_2" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex7_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_3" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -122,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex7_3" />
+        <item itemvalue="Application.Ex7_2" />
+        <item itemvalue="Application.Ex7_1" />
         <item itemvalue="Application.Exercise6_4" />
         <item itemvalue="Application.Exercise6_3" />
-        <item itemvalue="Application.Exercise6_2" />
-        <item itemvalue="Application.Ex4_13" />
-        <item itemvalue="Application.Ex6_11" />
       </list>
     </recent_temporary>
   </component>
