@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch07/Ex7_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/com/codechobo/book/PackageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch07/Ex7_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/Ex7_3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyForJava/Ex7_3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/studyForJava/Ex7_3.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/studyForJava/Point3D.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/studyForJava/Point3D.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/Ex7_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/Ex7_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/com/codechobo/book/PackageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/com/codechobo/book/PackageTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
