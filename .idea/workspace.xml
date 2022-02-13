@@ -4,7 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="" />
+    <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ch07/Ex7_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/ModifierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/TimeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/pkg1/MyParent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/pkg1/MyParentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/pkg2/MyParentTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,12 +55,12 @@
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
-    <option name="compactDirectories" value="true" />
     <option name="flattenModules" value="true" />
-    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
+    <option name="sortByType" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
@@ -68,7 +77,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showLigatures" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -82,23 +95,9 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ImportTest">
-    <configuration name="Ex7_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_2" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex7_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_3" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex7_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_4" />
+  <component name="RunManager" selected="Application.Ex7_7">
+    <configuration name="Ex7_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_7" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -106,6 +105,13 @@
     </configuration>
     <configuration name="ImportTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ImportTest" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModifierTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModifierTest" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -124,13 +130,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeTest" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex7_7" />
+        <item itemvalue="Application.TimeTest" />
+        <item itemvalue="Application.ModifierTest" />
         <item itemvalue="Application.ImportTest" />
         <item itemvalue="Application.PackageTest" />
-        <item itemvalue="Application.Ex7_4" />
-        <item itemvalue="Application.Ex7_3" />
-        <item itemvalue="Application.Ex7_2" />
       </list>
     </recent_temporary>
   </component>
