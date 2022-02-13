@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch07/Ex7_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/ModifierTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/TimeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/pkg1/MyParent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/pkg1/MyParentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07/pkg2/MyParentTest2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07/Ex7_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch07/Ex7_7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +50,7 @@
   </component>
   <component name="ProjectViewState">
     <option name="flattenModules" value="true" />
+    <option name="flattenPackages" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
     <option name="showMembers" value="true" />
