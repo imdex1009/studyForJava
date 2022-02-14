@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="" />
+    <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/ch07/Ex7_8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,9 +115,16 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex7_7">
+  <component name="RunManager" selected="Application.Ex7_8">
     <configuration name="Ex7_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex7_7" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex7_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_8" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -134,19 +144,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PackageTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.codechobo.book.PackageTest" />
-      <module name="studyForJava" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.codechobo.book.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TimeTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TimeTest" />
       <module name="studyForJava" />
@@ -156,11 +153,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex7_8" />
         <item itemvalue="Application.Ex7_7" />
         <item itemvalue="Application.TimeTest" />
         <item itemvalue="Application.ModifierTest" />
         <item itemvalue="Application.ImportTest" />
-        <item itemvalue="Application.PackageTest" />
       </list>
     </recent_temporary>
   </component>
