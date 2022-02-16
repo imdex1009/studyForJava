@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch07/Ex7_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Ex7_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Ex7_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/Ex7_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/FighterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch07/InterfaceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Hello_world/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/Hello_world/Hello.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +24,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Worksheet" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -112,35 +116,31 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/com/codechobo/book" />
     </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Hello">
-    <configuration name="Ex7_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_10" />
+  <component name="RunManager" selected="Application.Ex7_14">
+    <configuration name="Ex7_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_13" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_11" />
+    <configuration name="Ex7_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_14" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_12" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex7_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_9" />
+    <configuration name="FighterTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FighterTest" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -153,13 +153,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="InterfaceTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterfaceTest" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex7_14" />
+        <item itemvalue="Application.Ex7_13" />
+        <item itemvalue="Application.InterfaceTest" />
+        <item itemvalue="Application.FighterTest" />
         <item itemvalue="Application.Hello" />
-        <item itemvalue="Application.Ex7_12" />
-        <item itemvalue="Application.Ex7_11" />
-        <item itemvalue="Application.Ex7_10" />
-        <item itemvalue="Application.Ex7_9" />
       </list>
     </recent_temporary>
   </component>
