@@ -13,7 +13,7 @@ public class Ex7_15 {
     }
 
     void myMethod() {
-        int lv = 0;
+        int lv = 0; // 값이 바뀌지 않는 변수는 상수로 간주
         final int LV = 0; // JDK 1.8부터 final 생략 가능
 
         class LocalInner {
@@ -21,6 +21,7 @@ public class Ex7_15 {
             int liv2 = outerCv;
 //            외부 클래스의 지역변수는 final이 붙은 변수(상수)만 접근 가능하다.
 //            int liv3 = lv; // 에러 (JDK 1.8부터 에러 아님)
+//            이유 : lv는 값이 바뀌지 않는 변수로 간주하기 때문에 상수와 동일하게 취급
             int liv4 = LV; // ok
         }
     }
