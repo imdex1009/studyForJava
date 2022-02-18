@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ch07_Ex/Prac07_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch07_Ex/Prac07_3.java" afterDir="false" />
+    <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/ch08/Ex08_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch08/Ex08_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch08/Ex08_3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch07_Ex/Prac07_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch07_Ex/Prac07_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,23 +123,23 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Prac07_3">
-    <configuration name="E07_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="E07_1" />
+  <component name="RunManager" selected="Application.Ex08_3">
+    <configuration name="Ex08_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex08_1" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_16" />
+    <configuration name="Ex08_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex08_2" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prac07_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prac07_1" />
+    <configuration name="Ex08_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex08_3" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -158,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex08_3" />
+        <item itemvalue="Application.Ex08_1" />
+        <item itemvalue="Application.Ex08_2" />
         <item itemvalue="Application.Prac07_3" />
         <item itemvalue="Application.Prac07_2" />
-        <item itemvalue="Application.Prac07_1" />
-        <item itemvalue="Application.E07_1" />
-        <item itemvalue="Application.Ex7_16" />
       </list>
     </recent_temporary>
   </component>
@@ -175,6 +178,14 @@
       <option name="presentableId" value="Default" />
       <updated>1641826684097</updated>
     </task>
+    <task id="LOCAL-00001" summary="updated">
+      <created>1645077243135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645077243135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -190,6 +201,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

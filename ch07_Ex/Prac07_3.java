@@ -1,6 +1,15 @@
 class Outer {
-    static class Inner {
-        int iv = 100;
+    int value = 10;
+
+    class Inner {
+        int value = 20;
+        void method1() {
+            int value = 30;
+
+            System.out.println(value);
+            System.out.println(this.value);
+            System.out.println(Outer.this.value);
+        }
     }
 }
 
@@ -9,8 +18,10 @@ class Outer {
 
 public class Prac07_3 {
     public static void main(String[] args) {
-        Outer.Inner ot = new Outer.Inner();
-        System.out.println(ot.iv);
+        Outer outer = new Outer();
+        Outer.Inner inner = outer.new Inner();
+
+        inner.method1();
 
     }
 }
