@@ -14,8 +14,7 @@ public class Ex08_5 {
         if (fileName == null || fileName.equals(""))
             throw new Exception("파일 이름이 유효하지 않습니다.");
         File f = new File(fileName);
-        boolean result = f.createNewFile();
-        System.out.println(result);
+        f.createNewFile();
         return f;
     }
 }
