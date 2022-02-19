@@ -13,8 +13,9 @@ public class Ex08_3 {
             System.out.println("예외메시지: " + ae.getMessage());
         }
 
-        
+
 
         System.out.println(6);
+        System.out.println(7);
     }
 }
