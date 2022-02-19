@@ -5,7 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change beforePath="$PROJECT_DIR$/ch08/Ex08_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/Ex08_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch08/Ex08_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch08/Ex08_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test2.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +121,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex08_3">
+  <component name="RunManager" selected="Application.Ex08_5">
     <configuration name="Ex08_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex08_1" />
       <module name="studyForJava" />
@@ -140,27 +143,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prac07_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prac07_2" />
+    <configuration name="Ex08_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex08_4" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prac07_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prac07_3" />
+    <configuration name="Ex08_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex08_5" />
       <module name="studyForJava" />
+      <option name="PROGRAM_PARAMETERS" value="test2.txt" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.Ex08_1" />
+      <item itemvalue="Application.Ex08_2" />
+      <item itemvalue="Application.Ex08_3" />
+      <item itemvalue="Application.Ex08_4" />
+      <item itemvalue="Application.Ex08_5" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex08_5" />
+        <item itemvalue="Application.Ex08_4" />
         <item itemvalue="Application.Ex08_3" />
         <item itemvalue="Application.Ex08_1" />
         <item itemvalue="Application.Ex08_2" />
-        <item itemvalue="Application.Prac07_3" />
-        <item itemvalue="Application.Prac07_2" />
       </list>
     </recent_temporary>
   </component>
