@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/ch08/Ex08_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ch08/Ex08_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch08/Ex08_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test2.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -119,16 +121,9 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex08_5">
+  <component name="RunManager" selected="Application.Ex08_6">
     <configuration name="Ex08_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex08_1" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex08_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex08_2" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -156,20 +151,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex08_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex08_6" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Ex08_1" />
-      <item itemvalue="Application.Ex08_2" />
       <item itemvalue="Application.Ex08_3" />
       <item itemvalue="Application.Ex08_4" />
       <item itemvalue="Application.Ex08_5" />
+      <item itemvalue="Application.Ex08_6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex08_6" />
         <item itemvalue="Application.Ex08_5" />
         <item itemvalue="Application.Ex08_4" />
         <item itemvalue="Application.Ex08_3" />
         <item itemvalue="Application.Ex08_1" />
-        <item itemvalue="Application.Ex08_2" />
       </list>
     </recent_temporary>
   </component>
@@ -213,6 +215,7 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/studyForJava$Ex08_5.ic" NAME="Ex08_5 Coverage Results" MODIFIED="1645267370227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyForJava$Ex5_7.ic" NAME="Ex5_7 Coverage Results" MODIFIED="1643884883862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
