@@ -4,7 +4,7 @@ public class ch9_8 {
         sb.insert(4, ".");
 
         System.out.println(sb);
-        double num = Double.valueOf(String.valueOf(sb));
+        double num = Double.valueOf(sb.toString());
         System.out.println(num);
     }
 }
