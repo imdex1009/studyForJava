@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch09/ch9_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/ch9_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch09/ch9_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch09/ch9_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch09/ch9_5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -121,21 +121,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ch9_6">
-    <configuration name="Ex9_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex9_2" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ch9_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ch9_3" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ch9_8">
     <configuration name="ch9_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ch9_4" />
       <module name="studyForJava" />
@@ -157,20 +143,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ch9_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch9_7" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ch9_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ch9_8" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Ex9_2" />
-      <item itemvalue="Application.ch9_3" />
       <item itemvalue="Application.ch9_4" />
       <item itemvalue="Application.ch9_5" />
       <item itemvalue="Application.ch9_6" />
+      <item itemvalue="Application.ch9_7" />
+      <item itemvalue="Application.ch9_8" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ch9_8" />
+        <item itemvalue="Application.ch9_7" />
         <item itemvalue="Application.ch9_6" />
         <item itemvalue="Application.ch9_5" />
         <item itemvalue="Application.ch9_4" />
-        <item itemvalue="Application.ch9_3" />
-        <item itemvalue="Application.Ex9_2" />
       </list>
     </recent_temporary>
   </component>
