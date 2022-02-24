@@ -12,7 +12,10 @@ public class ch9_5 {
         String s2 = new String(sb);
         System.out.println(s2);
 
-
+        String animals = "dog,cat,bear";
+        String[] arr = animals.split(",");
+        String str = String.join("-", arr);
+        System.out.println(str);
 
 
     }
