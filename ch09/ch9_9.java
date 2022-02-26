@@ -21,5 +21,6 @@ public class ch9_9 {
 
         System.out.println("capacity = " + sb.capacity());
         System.out.println("length = " + sb.length());
+        System.out.println("length = " + sb.length());
     }
 }
