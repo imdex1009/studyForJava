@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch10/Ex10_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Ex10_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Ex10_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10/Ex10_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Ex10_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch10/Ex10_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,23 +121,9 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex10_4">
-    <configuration name="Ch9_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ch9_13" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex10_6">
     <configuration name="Ex10_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex10_1" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex10_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex10_2" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -160,20 +143,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex10_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex10_5" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex10_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex10_6" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Ch9_13" />
       <item itemvalue="Application.Ex10_1" />
-      <item itemvalue="Application.Ex10_2" />
       <item itemvalue="Application.Ex10_3" />
       <item itemvalue="Application.Ex10_4" />
+      <item itemvalue="Application.Ex10_5" />
+      <item itemvalue="Application.Ex10_6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex10_6" />
+        <item itemvalue="Application.Ex10_5" />
         <item itemvalue="Application.Ex10_4" />
         <item itemvalue="Application.Ex10_3" />
         <item itemvalue="Application.Ex10_1" />
-        <item itemvalue="Application.Ex10_2" />
-        <item itemvalue="Application.Ch9_13" />
       </list>
     </recent_temporary>
   </component>
