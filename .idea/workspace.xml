@@ -5,10 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/imdex.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Ex11_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/Ex11_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch11/Ex11_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/Ex11_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch11/Ex11_3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch11/Ex11_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch11/Ex11_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +126,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex11_1">
+  <component name="RunManager" selected="Application.Ex11_4">
     <configuration name="Ex11_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex11_1" />
       <module name="studyForJava" />
@@ -134,22 +134,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prac10_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prac10_3" />
+    <configuration name="Ex11_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_2" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prac10_3_answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prac10_3_answer" />
+    <configuration name="Ex11_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_3" />
       <module name="studyForJava" />
+      <option name="PROGRAM_PARAMETERS" value="(2+3)*3" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prac10_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prac10_4" />
+    <configuration name="Ex11_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_4" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -163,19 +164,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Prac10_3" />
-      <item itemvalue="Application.Prac10_3_answer" />
-      <item itemvalue="Application.Prac10_4" />
       <item itemvalue="Application.Prac10_4_answer" />
       <item itemvalue="Application.Ex11_1" />
+      <item itemvalue="Application.Ex11_2" />
+      <item itemvalue="Application.Ex11_3" />
+      <item itemvalue="Application.Ex11_4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11_4" />
+        <item itemvalue="Application.Ex11_3" />
+        <item itemvalue="Application.Ex11_2" />
         <item itemvalue="Application.Ex11_1" />
         <item itemvalue="Application.Prac10_4_answer" />
-        <item itemvalue="Application.Prac10_4" />
-        <item itemvalue="Application.Prac10_3_answer" />
-        <item itemvalue="Application.Prac10_3" />
       </list>
     </recent_temporary>
   </component>
@@ -213,14 +214,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="updated" />
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
-  </component>
-  <component name="XDebuggerManager">
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="cal.get(Calendar.DAY_OF_WEEK)" language="JAVA" custom="java.util.Calendar" />
-        <watch expression="cal.get(Calendar.DAY_OF_WEEK_IN_MONTH)" language="JAVA" custom="java.util.Calendar" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
