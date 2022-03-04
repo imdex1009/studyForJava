@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch10_Ex/Prac10_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10_Ex/Prac10_1_answer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10_Ex/Prac10_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10_Ex/Prac10_2_answer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10_Ex/Prac10_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10_Ex/Prac10_3_answer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10_Ex/Prac10_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch10_Ex/Prac10_4_answer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/imdex.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Ex11_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
@@ -23,6 +17,11 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints>
+      <file url="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Vector.java" />
+    </disable_hints>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -73,6 +72,7 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Date.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Vector.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -104,14 +104,11 @@
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ch07" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ch09" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
-  </component>
-  <component name="ReaderModeSettings">
-    <option name="showLigatures" value="true" />
+    <property name="settings.editor.selected.configurable" value="yiiguxing.plugin.translate" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -129,9 +126,9 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Prac10_4_answer">
-    <configuration name="Prac10_2_answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prac10_2_answer" />
+  <component name="RunManager" selected="Application.Ex11_1">
+    <configuration name="Ex11_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_1" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,19 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Prac10_2_answer" />
       <item itemvalue="Application.Prac10_3" />
       <item itemvalue="Application.Prac10_3_answer" />
       <item itemvalue="Application.Prac10_4" />
       <item itemvalue="Application.Prac10_4_answer" />
+      <item itemvalue="Application.Ex11_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11_1" />
         <item itemvalue="Application.Prac10_4_answer" />
         <item itemvalue="Application.Prac10_4" />
         <item itemvalue="Application.Prac10_3_answer" />
         <item itemvalue="Application.Prac10_3" />
-        <item itemvalue="Application.Prac10_2_answer" />
       </list>
     </recent_temporary>
   </component>
