@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/ch11/Ex11_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +124,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex11_4">
+  <component name="RunManager" selected="Application.Ex11_5">
     <configuration name="Ex11_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex11_1" />
       <module name="studyForJava" />
@@ -153,27 +154,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prac10_4_answer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Prac10_4_answer" />
+    <configuration name="Ex11_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_5" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Prac10_4_answer" />
       <item itemvalue="Application.Ex11_1" />
       <item itemvalue="Application.Ex11_2" />
       <item itemvalue="Application.Ex11_3" />
       <item itemvalue="Application.Ex11_4" />
+      <item itemvalue="Application.Ex11_5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11_5" />
         <item itemvalue="Application.Ex11_4" />
         <item itemvalue="Application.Ex11_3" />
         <item itemvalue="Application.Ex11_2" />
         <item itemvalue="Application.Ex11_1" />
-        <item itemvalue="Application.Prac10_4_answer" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +212,16 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="updated" />
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.ConcurrentModificationException" package="java.util" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
