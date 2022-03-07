@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/ch11/Ex11_6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch11/Ex11_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch11/Ex11_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,14 +124,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex11_5">
-    <configuration name="Ex11_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex11_1" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex11_6">
     <configuration name="Ex11_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex11_2" />
       <module name="studyForJava" />
@@ -161,20 +154,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex11_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_6" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Ex11_1" />
       <item itemvalue="Application.Ex11_2" />
       <item itemvalue="Application.Ex11_3" />
       <item itemvalue="Application.Ex11_4" />
       <item itemvalue="Application.Ex11_5" />
+      <item itemvalue="Application.Ex11_6" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11_6" />
         <item itemvalue="Application.Ex11_5" />
         <item itemvalue="Application.Ex11_4" />
         <item itemvalue="Application.Ex11_3" />
         <item itemvalue="Application.Ex11_2" />
-        <item itemvalue="Application.Ex11_1" />
       </list>
     </recent_temporary>
   </component>
