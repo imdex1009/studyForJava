@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch11/Ex11_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Ex11_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Ex11_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Ex11_13.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +108,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -124,7 +126,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex11_10">
+  <component name="RunManager" selected="Application.Ex11_13">
     <configuration name="Ex11_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex11_10" />
       <module name="studyForJava" />
@@ -132,22 +134,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex11_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex11_6" />
+    <configuration name="Ex11_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_11" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex11_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex11_7" />
+    <configuration name="Ex11_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_12" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex11_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex11_8" />
+    <configuration name="Ex11_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_13" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -161,19 +163,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ex11_6" />
-      <item itemvalue="Application.Ex11_7" />
-      <item itemvalue="Application.Ex11_8" />
       <item itemvalue="Application.Ex11_9" />
       <item itemvalue="Application.Ex11_10" />
+      <item itemvalue="Application.Ex11_11" />
+      <item itemvalue="Application.Ex11_12" />
+      <item itemvalue="Application.Ex11_13" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11_13" />
+        <item itemvalue="Application.Ex11_12" />
+        <item itemvalue="Application.Ex11_11" />
         <item itemvalue="Application.Ex11_10" />
         <item itemvalue="Application.Ex11_9" />
-        <item itemvalue="Application.Ex11_8" />
-        <item itemvalue="Application.Ex11_7" />
-        <item itemvalue="Application.Ex11_6" />
       </list>
     </recent_temporary>
   </component>
