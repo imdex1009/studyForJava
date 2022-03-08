@@ -5,11 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch11/Ex11_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Ex11_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Ex11_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Ex11_10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch11/Ex11_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch11/Ex11_6.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,9 +124,9 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex11_9">
-    <configuration name="Ex11_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex11_5" />
+  <component name="RunManager" selected="Application.Ex11_10">
+    <configuration name="Ex11_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_10" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -164,19 +161,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ex11_5" />
       <item itemvalue="Application.Ex11_6" />
       <item itemvalue="Application.Ex11_7" />
       <item itemvalue="Application.Ex11_8" />
       <item itemvalue="Application.Ex11_9" />
+      <item itemvalue="Application.Ex11_10" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11_10" />
         <item itemvalue="Application.Ex11_9" />
         <item itemvalue="Application.Ex11_8" />
         <item itemvalue="Application.Ex11_7" />
         <item itemvalue="Application.Ex11_6" />
-        <item itemvalue="Application.Ex11_5" />
       </list>
     </recent_temporary>
   </component>
