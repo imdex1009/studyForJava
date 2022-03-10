@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch11/Ex11_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Ex11_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,7 +101,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ch07" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ch09" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ch11" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -110,6 +110,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch11" />
       <recent name="$PROJECT_DIR$/ch09" />
       <recent name="$PROJECT_DIR$/ch06" />
     </key>
@@ -124,14 +125,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex11_14">
-    <configuration name="Ex11_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex11_10" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex11_15">
     <configuration name="Ex11_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex11_11" />
       <module name="studyForJava" />
@@ -160,20 +154,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex11_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_15" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Ex11_10" />
       <item itemvalue="Application.Ex11_11" />
       <item itemvalue="Application.Ex11_12" />
       <item itemvalue="Application.Ex11_13" />
       <item itemvalue="Application.Ex11_14" />
+      <item itemvalue="Application.Ex11_15" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11_15" />
         <item itemvalue="Application.Ex11_14" />
         <item itemvalue="Application.Ex11_13" />
         <item itemvalue="Application.Ex11_12" />
         <item itemvalue="Application.Ex11_11" />
-        <item itemvalue="Application.Ex11_10" />
       </list>
     </recent_temporary>
   </component>
@@ -211,16 +212,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="updated" />
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.util.ConcurrentModificationException" package="java.util" />
-          <option name="timeStamp" value="2" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
