@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch11/Ex11_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Ex11_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch11/Ex11_17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +44,7 @@
     </file-type-list>
   </component>
   <component name="GitToolBoxStore">
-    <option name="projectConfigVersion" value="4" />
+    <option name="projectConfigVersion" value="5" />
     <option name="recentBranches">
       <RecentBranches>
         <option name="branchesForRepo">
@@ -99,6 +100,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ch07" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ch11" />
@@ -106,7 +108,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -125,21 +127,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex11_15">
-    <configuration name="Ex11_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex11_11" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex11_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex11_12" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex11_17">
     <configuration name="Ex11_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex11_13" />
       <module name="studyForJava" />
@@ -161,20 +149,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex11_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_16" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex11_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex11_17" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Ex11_11" />
-      <item itemvalue="Application.Ex11_12" />
       <item itemvalue="Application.Ex11_13" />
       <item itemvalue="Application.Ex11_14" />
       <item itemvalue="Application.Ex11_15" />
+      <item itemvalue="Application.Ex11_16" />
+      <item itemvalue="Application.Ex11_17" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex11_17" />
+        <item itemvalue="Application.Ex11_16" />
         <item itemvalue="Application.Ex11_15" />
         <item itemvalue="Application.Ex11_14" />
         <item itemvalue="Application.Ex11_13" />
-        <item itemvalue="Application.Ex11_12" />
-        <item itemvalue="Application.Ex11_11" />
       </list>
     </recent_temporary>
   </component>
@@ -219,6 +221,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/studyForJava$Ex08_5.ic" NAME="Ex08_5 Coverage Results" MODIFIED="1645267370227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/studyForJava$Ex11_15.ic" NAME="Ex11_15 Coverage Results" MODIFIED="1646899882436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/studyForJava$Ex11_14.ic" NAME="Ex11_14 Coverage Results" MODIFIED="1646899762976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyForJava$Ex5_7.ic" NAME="Ex5_7 Coverage Results" MODIFIED="1643884883862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
