@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch11/Ex11_21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11/Ex11_22.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_Ex/Pr11_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_Ex/Pr11_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_Ex/Pr11_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch11_Ex/Pr11_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12/Ex12_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12/Ex12_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12/Ex12_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12/Ex12_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
@@ -132,23 +130,23 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Pr11_4">
-    <configuration name="Ex11_22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex11_22" />
+  <component name="RunManager" selected="Application.Ex12_3">
+    <configuration name="Ex12_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12_1" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr11_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pr11_1" />
+    <configuration name="Ex12_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12_2" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr11_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pr11_2" />
+    <configuration name="Ex12_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12_3" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -169,19 +167,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ex11_22" />
-      <item itemvalue="Application.Pr11_1" />
-      <item itemvalue="Application.Pr11_2" />
       <item itemvalue="Application.Pr11_3" />
       <item itemvalue="Application.Pr11_4" />
+      <item itemvalue="Application.Ex12_1" />
+      <item itemvalue="Application.Ex12_2" />
+      <item itemvalue="Application.Ex12_3" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex12_3" />
+        <item itemvalue="Application.Ex12_2" />
+        <item itemvalue="Application.Ex12_1" />
         <item itemvalue="Application.Pr11_4" />
         <item itemvalue="Application.Pr11_3" />
-        <item itemvalue="Application.Pr11_2" />
-        <item itemvalue="Application.Pr11_1" />
-        <item itemvalue="Application.Ex11_22" />
       </list>
     </recent_temporary>
   </component>
