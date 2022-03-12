@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change beforePath="$PROJECT_DIR$/ch12/Ex12_3.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch12/Ex12_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12/Ex12_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch12/Ex12_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch12/Ex12_4.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +103,7 @@
     <property name="ToolWindowCoverage.ShowToolbar" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ch07" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ch11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ch12" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -110,6 +112,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch12" />
       <recent name="$PROJECT_DIR$/ch11" />
       <recent name="$PROJECT_DIR$/ch09" />
       <recent name="$PROJECT_DIR$/ch06" />
@@ -125,7 +128,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex12_3">
+  <component name="RunManager" selected="Application.Ex12_5">
     <configuration name="Ex12_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex12_1" />
       <module name="studyForJava" />
@@ -147,34 +150,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr11_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pr11_3" />
+    <configuration name="Ex12_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12_4" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr11_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pr11_4" />
+    <configuration name="Ex12_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12_5" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Pr11_3" />
-      <item itemvalue="Application.Pr11_4" />
       <item itemvalue="Application.Ex12_1" />
       <item itemvalue="Application.Ex12_2" />
       <item itemvalue="Application.Ex12_3" />
+      <item itemvalue="Application.Ex12_4" />
+      <item itemvalue="Application.Ex12_5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex12_5" />
+        <item itemvalue="Application.Ex12_4" />
         <item itemvalue="Application.Ex12_3" />
         <item itemvalue="Application.Ex12_2" />
         <item itemvalue="Application.Ex12_1" />
-        <item itemvalue="Application.Pr11_4" />
-        <item itemvalue="Application.Pr11_3" />
       </list>
     </recent_temporary>
   </component>
