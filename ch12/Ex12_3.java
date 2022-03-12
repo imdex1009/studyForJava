@@ -1,33 +1,36 @@
 import java.util.ArrayList;
+import java.util.List;
 
-class Tv4 {
-    String value;
 
-    public Tv4(String value) {
-        this.value = value;
-    }
+class Product3 {};
+class Tv4 extends Product3{};
+class Audio extends Product3{};
 
-    @Override
-    public String toString() {
-        return "Tv4{" +
-                "value='" + value + '\'' +
-                '}';
-    }
-};
-class Audio {};
 
 
 
 
 public class Ex12_3 {
     public static void main(String[] args) {
-        ArrayList<Tv4> list;
-        list = new ArrayList<>();
-        list.add(new Tv4("첫번째 Tv"));
+        ArrayList<Product3> productList = new ArrayList<Product3>();
+//        ArrayList<Tv4> tvList = new ArrayList<Tv4>();
+//        ArrayList<Product3> tvList = new ArrayList<Tv4>(); // 에러
+        List<Tv4> tvList = new ArrayList<Tv4>(); // ok
 
-        Tv4 t = list.get(0);
+        productList.add(new Tv4());
+        productList.add(new Audio());
 
-        System.out.println(t);
+        tvList.add(new Tv4());
+        tvList.add(new Tv4());
 
+        printAll(productList);
+//        printAll(tvList); // 컴파일 에러 발생
+
+
+    }
+
+    public static void printAll (List<Product3> list) {
+        for (Product3 p : list)
+            System.out.println(p);
     }
 }
