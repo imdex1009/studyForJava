@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch12/Ex12_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch12/Ex12_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch12/Ex12_12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/Ex12_7.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch12/Ex12_7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +127,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex12_11">
+  <component name="RunManager" selected="Application.Ex12_12">
     <configuration name="Ex12_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex12_10" />
       <module name="studyForJava" />
@@ -144,15 +142,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex12_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex12_7" />
+    <configuration name="Ex12_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12_12" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex12_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex12_8" />
+    <configuration name="Ex12_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex12_7" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -167,18 +165,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Ex12_7" />
-      <item itemvalue="Application.Ex12_8" />
       <item itemvalue="Application.Ex12_9" />
       <item itemvalue="Application.Ex12_10" />
       <item itemvalue="Application.Ex12_11" />
+      <item itemvalue="Application.Ex12_12" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex12_12" />
         <item itemvalue="Application.Ex12_11" />
         <item itemvalue="Application.Ex12_7" />
         <item itemvalue="Application.Ex12_10" />
         <item itemvalue="Application.Ex12_9" />
-        <item itemvalue="Application.Ex12_8" />
       </list>
     </recent_temporary>
   </component>
