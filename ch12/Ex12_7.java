@@ -64,7 +64,7 @@ public class Ex12_7 {
         newFruitBox.add(new Apple2());
         newFruitBox.add(new Grape2());
 
-        ArrayList ls = newFruitBox.getList();
+        ArrayList<Fruit2> ls = newFruitBox.getList();
         System.out.println(ls.toString());
 
 
@@ -72,15 +72,6 @@ public class Ex12_7 {
             System.out.println(fruit.toString());
         }
 
-
-        ArrayList<String> strList = new ArrayList<>();
-        for (int i = 0; i < 4; i++) {
-            strList.add("안녕" + i);
-        }
-
-        for (String str : strList) {
-
-        }
 
 
 
