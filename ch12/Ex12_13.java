@@ -22,9 +22,11 @@ interface Testable {
 
 public class Ex12_13 {
     @SuppressWarnings("deprecation") // 경고 억제
+
     public static void main(String[] args) {
         Child c = new Child();
         c.parentMethod(); // deprecated된 메서드 사용
         c.test();
+
     }
 }
