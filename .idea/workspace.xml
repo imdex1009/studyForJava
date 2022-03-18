@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch12/Ex12_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssExercise/S_01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssExercise/S_02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssExercise/S_03.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12/Ex12_13.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch12/Ex12_13.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,8 +72,13 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/System.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Date.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Class.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Throwable.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Vector.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Exception.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/reflect/Field.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -128,21 +135,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex12_14">
-    <configuration name="Ex12_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex12_11" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex12_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex12_12" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.S_03">
     <configuration name="Ex12_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex12_13" />
       <module name="studyForJava" />
@@ -157,27 +150,41 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex12_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex12_7" />
+    <configuration name="S_01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S_01" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S_02" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S_03" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ex12_7" />
-      <item itemvalue="Application.Ex12_11" />
-      <item itemvalue="Application.Ex12_12" />
       <item itemvalue="Application.Ex12_13" />
       <item itemvalue="Application.Ex12_14" />
+      <item itemvalue="Application.S_01" />
+      <item itemvalue="Application.S_02" />
+      <item itemvalue="Application.S_03" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S_03" />
+        <item itemvalue="Application.S_02" />
+        <item itemvalue="Application.S_01" />
         <item itemvalue="Application.Ex12_14" />
         <item itemvalue="Application.Ex12_13" />
-        <item itemvalue="Application.Ex12_12" />
-        <item itemvalue="Application.Ex12_11" />
-        <item itemvalue="Application.Ex12_7" />
       </list>
     </recent_temporary>
   </component>
