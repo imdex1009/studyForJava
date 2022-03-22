@@ -13,5 +13,8 @@ public class Pr12_2 {
 
         Object obj = new TestMo();
         System.out.println(obj);
+
+	String str2 = "가나다라 마바사";
+	System.out.println(str2);
     }
 }
