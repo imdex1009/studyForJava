@@ -5,10 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13/Ex13_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13/Ex13_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13/Ex13_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13/Ex13_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13/Ex13_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13/Ex13_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13/Ex13_8.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch12_Ex/Pr12_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch12_Ex/Pr12_2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,56 +138,56 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex13_1">
-    <configuration name="Ex13_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex13_1" />
+  <component name="RunManager" selected="Application.Ex13_8">
+    <configuration name="Ex13_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex13_4" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr12_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pr12_1" />
+    <configuration name="Ex13_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex13_5" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr12_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pr12_2" />
+    <configuration name="Ex13_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex13_6" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S_02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="S_02" />
+    <configuration name="Ex13_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex13_7" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S_03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="S_03" />
+    <configuration name="Ex13_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex13_8" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.S_02" />
-      <item itemvalue="Application.S_03" />
-      <item itemvalue="Application.Pr12_1" />
-      <item itemvalue="Application.Pr12_2" />
-      <item itemvalue="Application.Ex13_1" />
+      <item itemvalue="Application.Ex13_4" />
+      <item itemvalue="Application.Ex13_5" />
+      <item itemvalue="Application.Ex13_6" />
+      <item itemvalue="Application.Ex13_7" />
+      <item itemvalue="Application.Ex13_8" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex13_1" />
-        <item itemvalue="Application.Pr12_2" />
-        <item itemvalue="Application.Pr12_1" />
-        <item itemvalue="Application.S_03" />
-        <item itemvalue="Application.S_02" />
+        <item itemvalue="Application.Ex13_8" />
+        <item itemvalue="Application.Ex13_7" />
+        <item itemvalue="Application.Ex13_6" />
+        <item itemvalue="Application.Ex13_5" />
+        <item itemvalue="Application.Ex13_4" />
       </list>
     </recent_temporary>
   </component>
@@ -209,11 +213,33 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="4799528d-a753-4f66-b0f5-aad0b3824dbb">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />
           </value>
         </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="4799528d-a753-4f66-b0f5-aad0b3824dbb" value="TOOL_WINDOW" />
       </map>
     </option>
   </component>
