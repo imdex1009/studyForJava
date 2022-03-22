@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13/Ex13_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13/Ex13_9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,16 +133,9 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex13_8">
-    <configuration name="Ex13_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex13_4" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex13_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex13_5" />
+  <component name="RunManager" selected="Application.Ex13_10">
+    <configuration name="Ex13_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex13_10" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -174,20 +162,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex13_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex13_9" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Ex13_4" />
-      <item itemvalue="Application.Ex13_5" />
       <item itemvalue="Application.Ex13_6" />
       <item itemvalue="Application.Ex13_7" />
       <item itemvalue="Application.Ex13_8" />
+      <item itemvalue="Application.Ex13_9" />
+      <item itemvalue="Application.Ex13_10" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex13_10" />
+        <item itemvalue="Application.Ex13_9" />
         <item itemvalue="Application.Ex13_8" />
         <item itemvalue="Application.Ex13_7" />
         <item itemvalue="Application.Ex13_6" />
-        <item itemvalue="Application.Ex13_5" />
-        <item itemvalue="Application.Ex13_4" />
       </list>
     </recent_temporary>
   </component>
