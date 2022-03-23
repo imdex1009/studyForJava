@@ -5,11 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13/Ex13_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13/Ex13_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_ex/pr13_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_ex/pr13_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_ex/pr13_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch13_ex/pr13_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch13/Ex13_14.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch13/Ex13_14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,10 +76,12 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/System.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Date.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Class.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Throwable.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Vector.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Object.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Exception.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/reflect/Field.java" root0="SKIP_INSPECTION" />
   </component>
@@ -84,7 +89,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="23VkXpOwokEUm18N93xvlEzLQf1" />
   <component name="ProjectLevelVcsManager">
@@ -115,7 +120,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -136,56 +141,56 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex13_17">
-    <configuration name="Ex13_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex13_13" />
+  <component name="RunManager" selected="Application.pr13_4">
+    <configuration name="Ex13_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex13_19" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex13_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex13_14" />
+    <configuration name="pr13_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pr13_1" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex13_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex13_15" />
+    <configuration name="pr13_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pr13_2" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex13_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex13_16" />
+    <configuration name="pr13_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pr13_3" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex13_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex13_17" />
+    <configuration name="pr13_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pr13_4" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ex13_13" />
-      <item itemvalue="Application.Ex13_14" />
-      <item itemvalue="Application.Ex13_15" />
-      <item itemvalue="Application.Ex13_16" />
-      <item itemvalue="Application.Ex13_17" />
+      <item itemvalue="Application.Ex13_19" />
+      <item itemvalue="Application.pr13_1" />
+      <item itemvalue="Application.pr13_2" />
+      <item itemvalue="Application.pr13_3" />
+      <item itemvalue="Application.pr13_4" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex13_17" />
-        <item itemvalue="Application.Ex13_16" />
-        <item itemvalue="Application.Ex13_15" />
-        <item itemvalue="Application.Ex13_14" />
-        <item itemvalue="Application.Ex13_13" />
+        <item itemvalue="Application.pr13_4" />
+        <item itemvalue="Application.pr13_3" />
+        <item itemvalue="Application.pr13_2" />
+        <item itemvalue="Application.pr13_1" />
+        <item itemvalue="Application.Ex13_19" />
       </list>
     </recent_temporary>
   </component>
