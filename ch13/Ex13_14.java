@@ -24,7 +24,7 @@ public class Ex13_14 {
 }
 
 class TestMo2 {
-    ArrayList list;
+    final ArrayList list;
 
     public TestMo2(ArrayList list) {
         this.list = list;
@@ -39,7 +39,7 @@ class TestMo2 {
 }
 
 class MyThread_11 extends Thread {
-    ArrayList<Integer> list;
+    final ArrayList<Integer> list;
 
     public MyThread_11(ArrayList<Integer> list) {
         this.list = list;
@@ -54,7 +54,7 @@ class MyThread_11 extends Thread {
     }
 }
 class MyThread_22 extends Thread {
-    ArrayList<Integer> list;
+    final ArrayList<Integer> list;
 
     public MyThread_22(ArrayList<Integer> list) {
         this.list = list;
