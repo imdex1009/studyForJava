@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13/Ex13_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_ex/pr13_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_ex/pr13_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_ex/pr13_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch13_ex/pr13_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Ex14_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
@@ -116,7 +111,7 @@
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ch07" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/ch13" />
-    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
