@@ -8,6 +8,6 @@ public class Ex14_1 {
         };
 
 
-        int value = obj.max(3, 5); // 함수형 인터페이스
+//        int value = obj.max(3, 5); // 함수형 인터페이스
     }
 }
