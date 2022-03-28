@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ssExercise/S_06.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Ex14_7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ssExercise/S_05.java" beforeDir="false" afterPath="$PROJECT_DIR$/ssExercise/S_05.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -110,7 +109,7 @@
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ch07_Ex" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
@@ -135,7 +134,7 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.S_06">
+  <component name="RunManager" selected="Application.Ex14_7">
     <configuration name="Ex14_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex14_5" />
       <module name="studyForJava" />
@@ -150,8 +149,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S_04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="S_04" />
+    <configuration name="Ex14_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex14_7" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -172,19 +171,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.S_04" />
       <item itemvalue="Application.Ex14_5" />
       <item itemvalue="Application.S_05" />
       <item itemvalue="Application.Ex14_6" />
       <item itemvalue="Application.S_06" />
+      <item itemvalue="Application.Ex14_7" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex14_7" />
         <item itemvalue="Application.S_06" />
         <item itemvalue="Application.S_05" />
         <item itemvalue="Application.Ex14_6" />
         <item itemvalue="Application.Ex14_5" />
-        <item itemvalue="Application.S_04" />
       </list>
     </recent_temporary>
   </component>
