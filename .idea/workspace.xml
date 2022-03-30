@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch14/Ex14_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch14/Ex14_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch14/Ex14_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Ex14_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Ex14_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Ex14_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Ex14_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Ex14_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch14/Ex14_16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +118,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editing.templates" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -136,56 +139,56 @@
       <recent name="src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex14_10">
-    <configuration name="Ex14_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex14_10" />
+  <component name="RunManager" selected="Application.Ex14_16">
+    <configuration name="Ex14_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex14_12" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex14_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex14_7" />
+    <configuration name="Ex14_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex14_13" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex14_8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex14_8" />
+    <configuration name="Ex14_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex14_14" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex14_9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex14_9" />
+    <configuration name="Ex14_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex14_15" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S_06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="S_06" />
+    <configuration name="Ex14_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex14_16" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.S_06" />
-      <item itemvalue="Application.Ex14_7" />
-      <item itemvalue="Application.Ex14_8" />
-      <item itemvalue="Application.Ex14_9" />
-      <item itemvalue="Application.Ex14_10" />
+      <item itemvalue="Application.Ex14_12" />
+      <item itemvalue="Application.Ex14_13" />
+      <item itemvalue="Application.Ex14_14" />
+      <item itemvalue="Application.Ex14_15" />
+      <item itemvalue="Application.Ex14_16" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex14_10" />
-        <item itemvalue="Application.Ex14_9" />
-        <item itemvalue="Application.Ex14_8" />
-        <item itemvalue="Application.Ex14_7" />
-        <item itemvalue="Application.S_06" />
+        <item itemvalue="Application.Ex14_16" />
+        <item itemvalue="Application.Ex14_15" />
+        <item itemvalue="Application.Ex14_14" />
+        <item itemvalue="Application.Ex14_13" />
+        <item itemvalue="Application.Ex14_12" />
       </list>
     </recent_temporary>
   </component>
@@ -245,16 +248,6 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="updated" />
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.UnsupportedOperationException" package="java.lang" />
-          <option name="timeStamp" value="3" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
