@@ -5,10 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_4.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/123.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/convert.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssExercise/S_14.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch15/Ex15_4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +86,9 @@
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/System.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Date.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/io/BufferedOutputStream.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Class.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/io/InputStreamReader.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Throwable.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Vector.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Object.java" root0="SKIP_INSPECTION" />
@@ -141,57 +155,56 @@
       <command value="Ex14_18" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex15_4">
-    <configuration name="Ex15_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_1" />
+  <component name="RunManager" selected="Application.Ex15_14">
+    <configuration name="Ex15_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex15_10" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex15_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_2" />
+    <configuration name="Ex15_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex15_11" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex15_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_3" />
+    <configuration name="Ex15_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex15_12" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex15_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_4" />
+    <configuration name="Ex15_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex15_13" />
       <module name="studyForJava" />
-      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/ch15/Ex15_4.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="S_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="S_13" />
+    <configuration name="Ex15_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex15_14" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.S_13" />
-      <item itemvalue="Application.Ex15_1" />
-      <item itemvalue="Application.Ex15_2" />
-      <item itemvalue="Application.Ex15_3" />
-      <item itemvalue="Application.Ex15_4" />
+      <item itemvalue="Application.Ex15_10" />
+      <item itemvalue="Application.Ex15_11" />
+      <item itemvalue="Application.Ex15_12" />
+      <item itemvalue="Application.Ex15_13" />
+      <item itemvalue="Application.Ex15_14" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex15_4" />
-        <item itemvalue="Application.Ex15_3" />
-        <item itemvalue="Application.Ex15_2" />
-        <item itemvalue="Application.Ex15_1" />
-        <item itemvalue="Application.S_13" />
+        <item itemvalue="Application.Ex15_14" />
+        <item itemvalue="Application.Ex15_13" />
+        <item itemvalue="Application.Ex15_12" />
+        <item itemvalue="Application.Ex15_11" />
+        <item itemvalue="Application.Ex15_10" />
       </list>
     </recent_temporary>
   </component>
@@ -253,15 +266,16 @@
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/ch15/Ex15_4.java</url>
-          <line>10</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="java.io.BufferedOutputStream" memberName="count" />
+      </pinned-members>
+    </pin-to-top-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="bos" language="JAVA" custom="java.util.concurrent.locks.AbstractOwnableSynchronizer" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
