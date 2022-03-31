@@ -1,3 +1,4 @@
+import java.util.Comparator;
 import java.util.Optional;
 import java.util.OptionalInt;
 import java.util.stream.IntStream;
@@ -8,11 +9,19 @@ public class Ex14_16 {
 
         String[] strArr = {
                 "Inheritance", "Java", "Lambda", "stream",
-                "OptionalDouble", "IntStream", "count", "sum"
+                "OptionalDouble", "IntStream", "count", "dount", "sum"
         };
 
+
 //        Stream.of(strArr).forEach(str -> System.out.print(str + ", "));
-        Stream.of(strArr).parallel().forEach(str -> System.out.print(str + ", "));
+//        Stream.of(strArr).parallel().forEach(str -> System.out.print(str + ", "));
+//        Stream.of(strArr).parallel().forEachOrdered(str -> System.out.print(str + ", "));
+        Stream.of(strArr)
+                .sorted(
+                        Comparator.comparing(String::length)
+                        .reversed()
+                        .thenComparing(String.CASE_INSENSITIVE_ORDER))
+                .forEach(str -> System.out.printf("%s, ", str));
 
         System.out.println();
 
