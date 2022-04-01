@@ -5,22 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/123.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/test.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/convert.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssExercise/S_14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch15/Ex15_4.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,21 +142,7 @@
       <command value="Ex14_18" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex15_14">
-    <configuration name="Ex15_10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_10" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex15_11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_11" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Ex15_16">
     <configuration name="Ex15_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex15_12" />
       <module name="studyForJava" />
@@ -191,20 +164,35 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Ex15_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex15_15" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex15_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex15_16" />
+      <module name="studyForJava" />
+      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/ch15" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Ex15_10" />
-      <item itemvalue="Application.Ex15_11" />
       <item itemvalue="Application.Ex15_12" />
       <item itemvalue="Application.Ex15_13" />
       <item itemvalue="Application.Ex15_14" />
+      <item itemvalue="Application.Ex15_15" />
+      <item itemvalue="Application.Ex15_16" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex15_16" />
+        <item itemvalue="Application.Ex15_15" />
         <item itemvalue="Application.Ex15_14" />
         <item itemvalue="Application.Ex15_13" />
         <item itemvalue="Application.Ex15_12" />
-        <item itemvalue="Application.Ex15_11" />
-        <item itemvalue="Application.Ex15_10" />
       </list>
     </recent_temporary>
   </component>
@@ -282,6 +270,7 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/studyForJava$Ex15_16.ic" NAME="Ex15_16 Coverage Results" MODIFIED="1648786299544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyForJava$Ex08_5.ic" NAME="Ex08_5 Coverage Results" MODIFIED="1645267370227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyForJava$Ex11_15.ic" NAME="Ex11_15 Coverage Results" MODIFIED="1646899882436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyForJava$Ex15_4.ic" NAME="Ex15_4 Coverage Results" MODIFIED="1648703470770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
