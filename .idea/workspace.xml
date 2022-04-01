@@ -5,9 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HexResult.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/UserInfo.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/Ex15_20.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15_ex/FileMergeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15_ex/HexaDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15_ex/HexaViewer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15_ex/Pr15_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/result.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssExercise/S_15.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch15/Ex15_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch15/Ex15_17.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,6 +142,8 @@
       <recent name="$PROJECT_DIR$/ch09" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ch15_ex" />
       <recent name="$PROJECT_DIR$/com/codechobo/book" />
     </key>
     <key name="ExtractSuperBase.RECENT_KEYS">
@@ -142,57 +159,76 @@
       <command value="Ex14_18" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex15_16">
-    <configuration name="Ex15_12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_12" />
+  <component name="RunManager" selected="Application.FileMergeTest">
+    <configuration name="Ex15_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex15_19" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex15_13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_13" />
+    <configuration name="Ex15_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex15_20" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex15_14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_14" />
+    <configuration name="FileMergeTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FileMergeTest" />
+      <module name="studyForJava" />
+      <option name="PROGRAM_PARAMETERS" value="1.txt 2.txt" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HexaDecoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HexaDecoder" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex15_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_15" />
+    <configuration name="HexaViewer" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="HexaViewer" />
       <module name="studyForJava" />
+      <option name="PROGRAM_PARAMETERS" value="ch15_ex/HexaViewer.java" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex15_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_16" />
+    <configuration name="Pr15_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Pr15_1" />
       <module name="studyForJava" />
-      <option name="PROGRAM_PARAMETERS" value="$PROJECT_DIR$/ch15" />
+      <option name="PROGRAM_PARAMETERS" value="10 ch15_ex/Pr15_1.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S_15" />
+      <module name="studyForJava" />
+      <option name="PROGRAM_PARAMETERS" value="10 S_15" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Ex15_12" />
-      <item itemvalue="Application.Ex15_13" />
-      <item itemvalue="Application.Ex15_14" />
-      <item itemvalue="Application.Ex15_15" />
-      <item itemvalue="Application.Ex15_16" />
+      <item itemvalue="Application.HexaViewer" />
+      <item itemvalue="Application.Ex15_19" />
+      <item itemvalue="Application.Ex15_20" />
+      <item itemvalue="Application.Pr15_1" />
+      <item itemvalue="Application.S_15" />
+      <item itemvalue="Application.HexaDecoder" />
+      <item itemvalue="Application.FileMergeTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex15_16" />
-        <item itemvalue="Application.Ex15_15" />
-        <item itemvalue="Application.Ex15_14" />
-        <item itemvalue="Application.Ex15_13" />
-        <item itemvalue="Application.Ex15_12" />
+        <item itemvalue="Application.HexaDecoder" />
+        <item itemvalue="Application.Pr15_1" />
+        <item itemvalue="Application.S_15" />
+        <item itemvalue="Application.Ex15_20" />
+        <item itemvalue="Application.Ex15_19" />
       </list>
     </recent_temporary>
   </component>
@@ -254,23 +290,32 @@
     <option name="LAST_COMMIT_MESSAGE" value="updated" />
   </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ch15_ex/HexaViewer.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ch15_ex/HexaViewer.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <pin-to-top-manager>
       <pinned-members>
         <PinnedItemInfo parentTag="java.io.BufferedOutputStream" memberName="count" />
       </pinned-members>
     </pin-to-top-manager>
-    <watches-manager>
-      <configuration name="Application">
-        <watch expression="bos" language="JAVA" custom="java.util.concurrent.locks.AbstractOwnableSynchronizer" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/studyForJava$Ex15_16.ic" NAME="Ex15_16 Coverage Results" MODIFIED="1648786299544" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/studyForJava$Ex15_16.ic" NAME="Ex15_16 Coverage Results" MODIFIED="1648786335148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyForJava$Ex08_5.ic" NAME="Ex08_5 Coverage Results" MODIFIED="1645267370227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyForJava$Ex11_15.ic" NAME="Ex11_15 Coverage Results" MODIFIED="1646899882436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyForJava$Ex15_4.ic" NAME="Ex15_4 Coverage Results" MODIFIED="1648703470770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
