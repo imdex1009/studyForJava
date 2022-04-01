@@ -5,24 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HexResult.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/UserInfo.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_19.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/Ex15_20.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15/UserInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15_ex/FileMergeTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15_ex/HexaDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15_ex/HexaViewer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch15_ex/Pr15_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/result.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ssExercise/S_15.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch15_ex/Exercise15_4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch15/Ex15_17.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch15/Ex15_17.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,16 +143,16 @@
       <command value="Ex14_18" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.FileMergeTest">
-    <configuration name="Ex15_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_19" />
+  <component name="RunManager" selected="Application.Exercise15_4">
+    <configuration name="Ex15_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex15_20" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex15_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_20" />
+    <configuration name="Exercise15_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise15_4" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -215,20 +199,20 @@
     </configuration>
     <list>
       <item itemvalue="Application.HexaViewer" />
-      <item itemvalue="Application.Ex15_19" />
       <item itemvalue="Application.Ex15_20" />
       <item itemvalue="Application.Pr15_1" />
       <item itemvalue="Application.S_15" />
       <item itemvalue="Application.HexaDecoder" />
       <item itemvalue="Application.FileMergeTest" />
+      <item itemvalue="Application.Exercise15_4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Exercise15_4" />
         <item itemvalue="Application.HexaDecoder" />
         <item itemvalue="Application.Pr15_1" />
         <item itemvalue="Application.S_15" />
         <item itemvalue="Application.Ex15_20" />
-        <item itemvalue="Application.Ex15_19" />
       </list>
     </recent_temporary>
   </component>
