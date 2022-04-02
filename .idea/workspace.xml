@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch15_ex/Exercise15_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16/Ex16_1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +116,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="com.maddyhome.idea.vim.ui.VimEmulationConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -143,9 +144,9 @@
       <command value="Ex14_18" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Exercise15_4">
-    <configuration name="Ex15_20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex15_20" />
+  <component name="RunManager" selected="Application.Ex16_1">
+    <configuration name="Ex16_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex16_1" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -200,19 +201,19 @@
     <list>
       <item itemvalue="Application.HexaViewer" />
       <item itemvalue="Application.FileMergeTest" />
-      <item itemvalue="Application.Ex15_20" />
       <item itemvalue="Application.Pr15_1" />
       <item itemvalue="Application.S_15" />
       <item itemvalue="Application.HexaDecoder" />
       <item itemvalue="Application.Exercise15_4" />
+      <item itemvalue="Application.Ex16_1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex16_1" />
         <item itemvalue="Application.Exercise15_4" />
         <item itemvalue="Application.HexaDecoder" />
         <item itemvalue="Application.Pr15_1" />
         <item itemvalue="Application.S_15" />
-        <item itemvalue="Application.Ex15_20" />
       </list>
     </recent_temporary>
   </component>
