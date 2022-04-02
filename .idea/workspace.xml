@@ -199,11 +199,11 @@
     </configuration>
     <list>
       <item itemvalue="Application.HexaViewer" />
+      <item itemvalue="Application.FileMergeTest" />
       <item itemvalue="Application.Ex15_20" />
       <item itemvalue="Application.Pr15_1" />
       <item itemvalue="Application.S_15" />
       <item itemvalue="Application.HexaDecoder" />
-      <item itemvalue="Application.FileMergeTest" />
       <item itemvalue="Application.Exercise15_4" />
     </list>
     <recent_temporary>
