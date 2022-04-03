@@ -5,9 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch16/Ex16_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16/Ex16_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16/Ex16_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16/Ex16_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16/Ex16_5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,6 +111,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="ToolWindowCoverage.ShowToolbar" value="false" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
     <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/ch07_Ex" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -144,7 +147,7 @@
       <command value="Ex14_18" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex16_1">
+  <component name="RunManager" selected="Application.Ex16_5">
     <configuration name="Ex16_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex16_1" />
       <module name="studyForJava" />
@@ -152,8 +155,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Exercise15_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exercise15_4" />
+    <configuration name="Ex16_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex16_2" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex16_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex16_3" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex16_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex16_4" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex16_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex16_5" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -167,13 +191,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HexaDecoder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="HexaDecoder" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="HexaViewer" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="HexaViewer" />
       <module name="studyForJava" />
@@ -182,38 +199,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pr15_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Pr15_1" />
-      <module name="studyForJava" />
-      <option name="PROGRAM_PARAMETERS" value="10 ch15_ex/Pr15_1.java" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="S_15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="S_15" />
-      <module name="studyForJava" />
-      <option name="PROGRAM_PARAMETERS" value="10 S_15" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.HexaViewer" />
       <item itemvalue="Application.FileMergeTest" />
-      <item itemvalue="Application.Pr15_1" />
-      <item itemvalue="Application.S_15" />
-      <item itemvalue="Application.HexaDecoder" />
-      <item itemvalue="Application.Exercise15_4" />
       <item itemvalue="Application.Ex16_1" />
+      <item itemvalue="Application.Ex16_2" />
+      <item itemvalue="Application.Ex16_3" />
+      <item itemvalue="Application.Ex16_4" />
+      <item itemvalue="Application.Ex16_5" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Ex16_5" />
+        <item itemvalue="Application.Ex16_4" />
+        <item itemvalue="Application.Ex16_3" />
+        <item itemvalue="Application.Ex16_2" />
         <item itemvalue="Application.Ex16_1" />
-        <item itemvalue="Application.Exercise15_4" />
-        <item itemvalue="Application.HexaDecoder" />
-        <item itemvalue="Application.Pr15_1" />
-        <item itemvalue="Application.S_15" />
       </list>
     </recent_temporary>
   </component>
