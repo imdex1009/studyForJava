@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch16/Ex16_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch16/Ex16_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch16/Ex16_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ch16/Ex16_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ch16/TcpIpServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -200,13 +197,13 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.HexaViewer" />
-      <item itemvalue="Application.FileMergeTest" />
       <item itemvalue="Application.Ex16_1" />
       <item itemvalue="Application.Ex16_2" />
       <item itemvalue="Application.Ex16_3" />
       <item itemvalue="Application.Ex16_4" />
       <item itemvalue="Application.Ex16_5" />
+      <item itemvalue="Application.FileMergeTest" />
+      <item itemvalue="Application.HexaViewer" />
     </list>
     <recent_temporary>
       <list>
