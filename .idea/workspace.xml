@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/ch16/UdpServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ch16/TcpIpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch16/TcpIpServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch16/UdpClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch16/UdpClient.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,28 +145,7 @@
       <command value="Ex14_18" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.TcpIpServer">
-    <configuration name="Ex16_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex16_2" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex16_3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex16_3" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Ex16_4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex16_4" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.UdpServer">
     <configuration name="Ex16_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex16_5" />
       <module name="studyForJava" />
@@ -189,8 +169,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TcpIpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TcpIpClient" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TcpIpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TcpIpServer" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UdpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UdpClient" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UdpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UdpServer" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -199,19 +200,19 @@
     <list>
       <item itemvalue="Application.HexaViewer" />
       <item itemvalue="Application.FileMergeTest" />
-      <item itemvalue="Application.Ex16_2" />
-      <item itemvalue="Application.Ex16_3" />
-      <item itemvalue="Application.Ex16_4" />
       <item itemvalue="Application.Ex16_5" />
       <item itemvalue="Application.TcpIpServer" />
+      <item itemvalue="Application.TcpIpClient" />
+      <item itemvalue="Application.UdpClient" />
+      <item itemvalue="Application.UdpServer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UdpClient" />
+        <item itemvalue="Application.UdpServer" />
+        <item itemvalue="Application.TcpIpClient" />
         <item itemvalue="Application.TcpIpServer" />
         <item itemvalue="Application.Ex16_5" />
-        <item itemvalue="Application.Ex16_4" />
-        <item itemvalue="Application.Ex16_3" />
-        <item itemvalue="Application.Ex16_2" />
       </list>
     </recent_temporary>
   </component>
