@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ch16/TcpIpServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ch16/TcpIpServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/ch16/TcpIpServer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,14 +144,7 @@
       <command value="Ex14_18" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.Ex16_5">
-    <configuration name="Ex16_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex16_1" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.TcpIpServer">
     <configuration name="Ex16_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex16_2" />
       <module name="studyForJava" />
@@ -196,22 +189,29 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TcpIpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TcpIpServer" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Ex16_1" />
+      <item itemvalue="Application.HexaViewer" />
+      <item itemvalue="Application.FileMergeTest" />
       <item itemvalue="Application.Ex16_2" />
       <item itemvalue="Application.Ex16_3" />
       <item itemvalue="Application.Ex16_4" />
       <item itemvalue="Application.Ex16_5" />
-      <item itemvalue="Application.FileMergeTest" />
-      <item itemvalue="Application.HexaViewer" />
+      <item itemvalue="Application.TcpIpServer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TcpIpServer" />
         <item itemvalue="Application.Ex16_5" />
         <item itemvalue="Application.Ex16_4" />
         <item itemvalue="Application.Ex16_3" />
         <item itemvalue="Application.Ex16_2" />
-        <item itemvalue="Application.Ex16_1" />
       </list>
     </recent_temporary>
   </component>
