@@ -1,5 +1,6 @@
 import java.io.*;
 import java.net.*;
+import java.util.Arrays;
 
 public class UdpClient {
     public static void main(String[] args) {
@@ -21,7 +22,18 @@ public class UdpClient {
         datagramSocket.send(outPacket);
         datagramSocket.receive(inPacket);
 
-        System.out.println("current server time :" + new String(inPacket.getData()));
+        String result = new String(inPacket.getData());
+
+
+//        String test = "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000";
+//
+//        System.out.println(test);
+//
+//        String[] s = test.split("");
+//        System.out.println(result.length());
+//        System.out.println(s.length);
+
+        System.out.println("current server time :" + result.trim());
 
         datagramSocket.close();
     }
