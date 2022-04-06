@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
+      <change afterPath="$PROJECT_DIR$/ssExercise/S_16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,14 +145,7 @@
       <command value="Ex14_18" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.UdpServer">
-    <configuration name="Ex16_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex16_5" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.S_16">
     <configuration name="FileMergeTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileMergeTest" />
       <module name="studyForJava" />
@@ -163,6 +158,13 @@
       <option name="MAIN_CLASS_NAME" value="HexaViewer" />
       <module name="studyForJava" />
       <option name="PROGRAM_PARAMETERS" value="ch15_ex/HexaViewer.java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S_16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S_16" />
+      <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -198,19 +200,19 @@
     <list>
       <item itemvalue="Application.HexaViewer" />
       <item itemvalue="Application.FileMergeTest" />
-      <item itemvalue="Application.Ex16_5" />
       <item itemvalue="Application.TcpIpServer" />
       <item itemvalue="Application.TcpIpClient" />
       <item itemvalue="Application.UdpClient" />
       <item itemvalue="Application.UdpServer" />
+      <item itemvalue="Application.S_16" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S_16" />
         <item itemvalue="Application.UdpClient" />
         <item itemvalue="Application.UdpServer" />
         <item itemvalue="Application.TcpIpClient" />
         <item itemvalue="Application.TcpIpServer" />
-        <item itemvalue="Application.Ex16_5" />
       </list>
     </recent_temporary>
   </component>
