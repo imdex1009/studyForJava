@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ssExercise/S_16.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssExercise/S_17.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/studyForJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/studyForJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,16 +69,16 @@
     </option>
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Date.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Vector.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/io/BufferedOutputStream.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/io/InputStreamReader.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Class.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Exception.java" root0="SKIP_INSPECTION" />
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Object.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/System.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Thread.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Date.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/io/BufferedOutputStream.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Class.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/io/InputStreamReader.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Throwable.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_312/Contents/Home/src.zip!/java/util/Vector.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Object.java" root0="SKIP_INSPECTION" />
-    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/Exception.java" root0="SKIP_INSPECTION" />
     <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/azul-1.8.0_322/Contents/Home/src.zip!/java/lang/reflect/Field.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -99,26 +98,11 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="ToolWindowCoverage.ShowToolbar" value="false" />
-    <property name="ToolWindowRun.ShowToolbar" value="false" />
-    <property name="com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File" value="JAVA" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/ch07_Ex" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="SDKs" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
-  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -145,7 +129,7 @@
       <command value="Ex14_18" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.S_16">
+  <component name="RunManager" selected="Application.S_17">
     <configuration name="FileMergeTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileMergeTest" />
       <module name="studyForJava" />
@@ -169,15 +153,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TcpIpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TcpIpClient" />
+    <configuration name="S_17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S_17" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TcpIpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TcpIpServer" />
+    <configuration name="TcpIpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TcpIpClient" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -200,7 +184,7 @@
     <list>
       <item itemvalue="Application.HexaViewer" />
       <item itemvalue="Application.FileMergeTest" />
-      <item itemvalue="Application.TcpIpServer" />
+      <item itemvalue="Application.S_17" />
       <item itemvalue="Application.TcpIpClient" />
       <item itemvalue="Application.UdpClient" />
       <item itemvalue="Application.UdpServer" />
@@ -208,11 +192,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S_17" />
         <item itemvalue="Application.S_16" />
         <item itemvalue="Application.UdpClient" />
         <item itemvalue="Application.UdpServer" />
         <item itemvalue="Application.TcpIpClient" />
-        <item itemvalue="Application.TcpIpServer" />
       </list>
     </recent_temporary>
   </component>
@@ -286,6 +270,11 @@
           <line>8</line>
           <option name="timeStamp" value="15" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ssExercise/S_17.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
     <pin-to-top-manager>
@@ -299,11 +288,11 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/studyForJava$Ex15_16.ic" NAME="Ex15_16 Coverage Results" MODIFIED="1648786335148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyForJava$Ex08_5.ic" NAME="Ex08_5 Coverage Results" MODIFIED="1645267370227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
-    <SUITE FILE_PATH="coverage/studyForJava$Ex11_15.ic" NAME="Ex11_15 Coverage Results" MODIFIED="1646899882436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyForJava$Ex15_4.ic" NAME="Ex15_4 Coverage Results" MODIFIED="1648703470770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyForJava$Ex11_14.ic" NAME="Ex11_14 Coverage Results" MODIFIED="1646899762976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/studyForJava$Ex11_15.ic" NAME="Ex11_15 Coverage Results" MODIFIED="1646899882436" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
     <SUITE FILE_PATH="coverage/studyForJava$Ex5_7.ic" NAME="Ex5_7 Coverage Results" MODIFIED="1643884883862" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/studyForJava$Ex15_16.ic" NAME="Ex15_16 Coverage Results" MODIFIED="1648786335148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>
