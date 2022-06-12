@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17680216-6de7-44de-bf2c-be9af1bbc8cb" name="Changes" comment="updated">
-      <change afterPath="$PROJECT_DIR$/ssExercise/S_17.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssExercise/S_18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssExercise/S_19.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,7 +130,7 @@
       <command value="Ex14_18" />
     </option>
   </component>
-  <component name="RunManager" selected="Application.S_17">
+  <component name="RunManager" selected="Application.S_19">
     <configuration name="FileMergeTest" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="FileMergeTest" />
       <module name="studyForJava" />
@@ -160,8 +161,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TcpIpClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TcpIpClient" />
+    <configuration name="S_18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S_18" />
+      <module name="studyForJava" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="S_19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="S_19" />
       <module name="studyForJava" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -174,29 +182,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="UdpServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="UdpServer" />
-      <module name="studyForJava" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
       <item itemvalue="Application.HexaViewer" />
       <item itemvalue="Application.FileMergeTest" />
+      <item itemvalue="Application.S_19" />
+      <item itemvalue="Application.S_18" />
       <item itemvalue="Application.S_17" />
-      <item itemvalue="Application.TcpIpClient" />
       <item itemvalue="Application.UdpClient" />
-      <item itemvalue="Application.UdpServer" />
       <item itemvalue="Application.S_16" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.S_19" />
+        <item itemvalue="Application.S_18" />
         <item itemvalue="Application.S_17" />
         <item itemvalue="Application.S_16" />
         <item itemvalue="Application.UdpClient" />
-        <item itemvalue="Application.UdpServer" />
-        <item itemvalue="Application.TcpIpClient" />
       </list>
     </recent_temporary>
   </component>
@@ -269,6 +270,11 @@
           <url>file://$PROJECT_DIR$/ch15_ex/HexaViewer.java</url>
           <line>8</line>
           <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ssExercise/S_19.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
